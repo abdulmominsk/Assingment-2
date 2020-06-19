@@ -1,0 +1,67 @@
+
+h2{
+    margin-left: 33%;
+    color: #fff;
+}
+
+#contact-form{
+    text-align: center;
+}
+
+form{
+    margin-top: 50px;
+}
+
+.form-control
+{
+    width: 50%;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid white;
+    color: #000;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+input{
+    height:45px;
+}
+
+form .submit
+{
+    width: 25%;
+    background: #ff5722;
+    border-color: transparent;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+ form .submit:hover
+{
+    background-color: #f44336;
+    cursor: pointer;
+}
+
+
+table{
+    clear: both;
+    margin-left:25%;
+    width: 50%;
+    border-bottom: 1px solid white;
+    color: #000;
+    font-size: 22px;
+    margin-bottom: 16px;
+}
+th{
+    border: 1px solid #fff;
+}
+td{
+    text-align: center;
+    padding-left: 10px;
+    color: yellow;
+}
